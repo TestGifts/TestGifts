@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-**TestGifts**,                                        
+**TestGifts**,                     
+<img align="right" src="https://github-readme-stats.vercel.app/apiusername=joway&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />                      
 
-Network security engineer,Web developer   
-                                         ![info](https://github-readme-stats.vercel.app/api?username=TestGifts&show_icons=true&count_private=true&hide=prs&theme=default_repocard) 
+Network security engineer,Web developer 
+                                         
 - 📫Blog: https://test.gifts/
 - ⚡Github: https://github.com/TestGifts/
 - 😄E-mail: admin@test.gifts
@@ -11,5 +12,7 @@ Network security engineer,Web developer
 
 
 Great works are performed not by strength but by **perseverance**.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=joway&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 

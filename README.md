@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![](http://antzuhl.cn:4000/get/@TestGifts.readme)
-
 **TestGifts**,
 
 Network security engineer,Web developer
@@ -10,5 +8,8 @@ Network security engineer,Web developer
 - ⚡Github: https://github.com/TestGifts/
 - 😄E-mail: admin@test.gifts
 
+![info](https://github-readme-stats.vercel.app/api?username=TestGifts&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
 Great works are performed not by strength but by **perseverance**.
+
 

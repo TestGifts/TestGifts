@@ -12,6 +12,4 @@ Network security engineer,Web developer
 
 Great works are performed not by strength but by **perseverance**.
 
-![info](https://github-readme-stats.vercel.app/api?username=TestGifts&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
-
 

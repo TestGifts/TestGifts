@@ -6,7 +6,7 @@ Network security engineer,Web developer
                                          
 - 📫Blog: https://testgifts.tech/
 - ⚡Github: https://github.com/TestGifts/
-- 😄E-mail: testgifts@hotmail.com
+- 😄E-mail: admin@testgifts.tech
 
 
 
